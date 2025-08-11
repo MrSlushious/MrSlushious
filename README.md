@@ -1,5 +1,5 @@
 - 👋 Hi, I’m MrSlushious
-- 👀 I’m interested in Programming and IT
+- 👀 I’m interested in Programming, IT and 3D animation
 - 🌱 I’m currently learning JS and Python
 
 <!---
