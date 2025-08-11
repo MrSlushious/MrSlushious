@@ -1,6 +1,6 @@
 - 👋 Hi, I’m MrSlushious
 - 👀 I’m interested in Programming, IT and 3D animation
-- 🌱 I’m currently learning JS and Python
+- 🌱 I’m currently learning Python and C++
 
 <!---
 MrSlushious/MrSlushious is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
