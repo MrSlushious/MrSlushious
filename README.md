@@ -1,8 +1,7 @@
 - 👋 Hi, I’m MrSlushious
-- 👀 I’m interested in Programming, IT, Philosophy and ethics
-- 🌱 I’m currently learning Russian, CSS, JS, Python and HTML
+- 👀 I’m interested in Programming and IT
+- 🌱 I’m currently learning JS and Python
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I can read Cyrillic alphabet, yet i can't form a word.
 
 <!---
 MrSlushious/MrSlushious is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
